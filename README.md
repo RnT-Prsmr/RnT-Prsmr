@@ -1,4 +1,11 @@
-## Hi there 👋
+## First steps with GitHub
+
+Disciplines
+- GIS / Daa Analysis
+- Rescue Engineering
+- Disaster Management
+
+Skills and expertise: Disaster Management, Natural Disasters, Risk Analysis, Exposure Assessment, Earth Observation, Emergency Management, Disaster Risk Reduction, Critical Infrastructure Protection, Vulnerability Assessment, Geographic Information System
 
 <!--
 **RnT-Prsmr/RnT-Prsmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
